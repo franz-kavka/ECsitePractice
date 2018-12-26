@@ -1,2 +1,2 @@
 # ECsitePractice
-internousチーム開発　自己担当部分
+インターノウスECサイト個人演習
